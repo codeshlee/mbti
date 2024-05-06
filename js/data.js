@@ -91,7 +91,7 @@ export const results = [
       '리더십 있다는 소리를 자주 들어요.<br>추진력이 있는 편이죠~ (뿌듯)'
     ],
     jobs: ['프리랜서', '창업가'],
-    lectureImg: '/images/result_lecture1.png',
+    lectureImg: './images/result_lecture1.png',
     lectureUrl: 'https://bit.ly/3Wr0kt6'
   },
   {

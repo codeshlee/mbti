@@ -6,10 +6,10 @@ console.log(mbti)
 const result = results[mbtis[mbti]]
 
 const titleEl = document.querySelector('.page-title')
-const charactorEl= document.querySelector('.character')
+const characterEl= document.querySelector('.character')
 const boxEls = document.querySelectorAll('.box')
 const jobEls = document.querySelectorAll('.job')
-const lectureEl = document.querySelector('lecture')
+const lectureEl = document.querySelector('.lecture')
 const lectureimgEl = document.querySelector('.lecture img')
 
 titleEl.innerHTML = result.title
